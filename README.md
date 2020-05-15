@@ -1,6 +1,6 @@
 # Providence Data Pipeline
 
-This repo is one of several projects related to [CCLYC](https://github.com/sinelki/cclyc.git). It contains scripts used to bootstrap the dataset for [Comparison Class Learning in Young Children](http://library.mit.edu/F/PQKXE2YAGSC2MEUE92G1NESLJHRCHALE3ABDPS867K4HJBR97F-00503?func=file&amp=&amp=&amp=&amp=&amp=&amp=&file%5Fname=find-b&local%5Fbase=THESES2).
+This repo is one of several projects related to [CCLYC](https://github.com/sinelki/cclyc.git). It contains scripts used to bootstrap the dataset for [Cues to Comparison Classes in Child-direct Language](http://library.mit.edu/F/PQKXE2YAGSC2MEUE92G1NESLJHRCHALE3ABDPS867K4HJBR97F-00503?func=file&amp=&amp=&amp=&amp=&amp=&amp=&file%5Fname=find-b&local%5Fbase=THESES2).
 
 ## Project Folders <a href=”folders”></a>
 `examples/`: Contains example python scripts for extracting information from the database
